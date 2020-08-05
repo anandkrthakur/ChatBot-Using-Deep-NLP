@@ -3,7 +3,7 @@ ChatBot using Deep Learning &amp; Natural Language Processing
 
 For dataset, kindly go to [Google Search](https://www.google.com) and type "cornell movie dialog corpus".
 
-Click on the very first [link](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). (you can directly click on this link also to reach page)
+Click on the very first [link](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). (you can also directly click on given link to reach final page)
 
 Read about the "Cornell Movie-Dialog Corpus" under Description Section, then proceed to download the DATASET by clicking on "Zip File".
 
